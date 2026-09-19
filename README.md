@@ -1,4 +1,4 @@
-# Offline Embedded Linux Voice Assistant — Raspberry Pi 2
+# Embedded Linux Voice Assistant — Raspberry Pi 2
 
 An offline voice assistant built from scratch on a Raspberry Pi 2, combining
 raw I2C hardware interfacing with a proper Linux kernel driver binding —
